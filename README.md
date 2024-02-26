@@ -4,4 +4,6 @@ This shell script efficiently converts numeric inputs representing months ( 1 to
 # Usage
 To use this script , simply run it in a Unix like environment using a Bash-compatible shell.
 
-./year.sh
+Run the script: ```bash
+
+                 ./year.sh  
